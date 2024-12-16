@@ -1,0 +1,7 @@
+
+1.	Profil diri
+2.	Daftar tugas/project yang sudah dijalankan
+3.	Daftar tugas/project yang sedang dijalankan dan selesaikan
+4.	Saran terhadap proses kerja/project yang sudah dijalankan
+5.	Kendala yang dihadapi
+6.	Pembelajaran dan pengetahuan yang didapatkan
